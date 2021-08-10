@@ -1,0 +1,24 @@
+{
+  "name": "uniswap_interaction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pasDamola/uniswap_interaction.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pasDamola/uniswap_interaction/issues"
+  },
+  "homepage": "https://github.com/pasDamola/uniswap_interaction#readme",
+  "dependencies": {
+    "@uniswap/sdk": "^3.0.3",
+    "ethers": "^5.4.4"
+  }
+}
